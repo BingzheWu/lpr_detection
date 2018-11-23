@@ -1,0 +1,5 @@
+task: 'lpr'
+mode: 'caffe'
+test_root: '/home/bingzhe/projects/lpr/plate_detection/test_data/car_lpr'
+proto_file: 'lpr.prototxt'
+weight_file: 'lpr.caffemodel'

@@ -1,0 +1,4 @@
+task: 'lpr'
+mode: 'torch'
+test_root: '/home/bingzhe/projects/lpr/plate_detection/test_data/car_lpr'
+log_dir: 'experiment/lpr/lpr_resnet/'

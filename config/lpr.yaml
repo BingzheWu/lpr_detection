@@ -1,0 +1,8 @@
+task: 'lpr'
+lpr_root: '/home/bingzhe/projects/lpr/training_data/cars_images/'
+log_dir: 'experiment/lpr/lpr_resnet/'
+
+optimizer: 'adam'
+lr: 0.001
+batch_size: 32
+epochs: 1000
